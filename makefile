@@ -20,7 +20,7 @@ CC_FLAGS=-c         \
          -Wall
 
 # Command used at clean target
-RM = rm -rf
+# RM = rm -rf
 
 #
 # Compilation and linking
